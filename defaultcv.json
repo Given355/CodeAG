@@ -1,23 +1,23 @@
 [
     {
         "type": "info",
-        "name": "John Doe",
+        "name": "Ndou Azwihangwisi Given",
         "table1": {
             "class": "info-table1",
             "label": ["Address:", "Phone:", "Email:"],
             "content": [
-                "123 State St.<br>Oslo, Norway",
-                "555-123-4567",
-                "john@polygonal.eu"
+                "20055 Mankweng,Limpopo",
+                "0648843625",
+                "202007493@keyaka.ul.ac.za"
             ]
         },
         "table2": {
             "class": "info-table2",
             "label": ["Website:", "Linkedin", "Twitter:"],
             "content": [
-                "https://polygonal.eu",
+                "https://codingAG.com",
                 "https://www.linkedin.com/",
-                "@johndoe"
+                "@Azwy"
             ]
         }
     },
@@ -25,7 +25,7 @@
         "type": "single-block",
         "title": "About Me",
         "list": [
-            "I am a brewer with 12 years of experience, specialized in wild yeast fermentation and barrel-aging."
+            "I am 2 years experienced programmer, specializing in website engineering"
         ]
     },
     {
@@ -33,22 +33,22 @@
         "title": "Professional Experience",
         "list": [
             {
-                "date": "2017-2020",
-                "location": "Polygonal Brewing Co.",
-                "position": "Head Brewer",
-                "description": "As head brewer, I partner with the marketing team to plan recipes and the production schedule. I manage a team of 4 people and ensure inventory is up to date."
+                "date": "2022-2024",
+                "location": "University of Limpopo",
+                "position": "Manager",
+                "description": "As manager, I partner with the programming team to advance coding and developing websites. I manage a team of 4 people and ensure inventory is up to date."
             },
             {
-                "date": "2015-2017",
-                "location": "Polygonal Brewing Co.",
-                "position": "Assistant Brewer",
-                "description": "As assistant brewer I was in charge of production, facility sanitation, product packaging, while ensuring proper brewing and hygiene routines."
+                "date": "2020-2022",
+                "location": "University of Limpopo",
+                "position": "Assistant Manager",
+                "description": "As assistant manager I was in charge of programming skills, facility new leaners, while ensuring proper coding and hygiene routines."
             },
             {
-                "date": "2013-2015",
-                "location": "Polygonal Taproom",
-                "position": "Bartender",
-                "description": "On top of customer relations, I maintained cleanliness of taps and beer lines to ensure optimal product quality. I also organized various events and special releases."
+                "date": "2018-2020",
+                "location": "College of Africa",
+                "position": "Co lecturer",
+                "description": "On top of lecturing, I maintained progress of students. I also organized various events."
             }
         ]
     },
@@ -57,16 +57,16 @@
         "title": "Education",
         "list": [
             {
-                "date": "2015",
-                "location": "Institute of Brewing",
-                "position": "Certificate in Brewing",
-                "description": "This certificate covers all aspects of beer production from recipe inception, to process and packaging."
+                "date": "2016",
+                "location": "Universityof Technology",
+                "position": "Diploma in Information Technology",
+                "description": "This Diploma covers all aspects of IT and Programming"
             },
             {
-                "date": "2012-2014",
-                "location": "University of Grenoble",
-                "position": "Bachelor in Communications",
-                "description": "This degree trained me in public relations and online communications with a special focus on social media."
+                "date": "2012-2015",
+                "location": "University of Venda",
+                "position": "Bachelor in Mathematical Science",
+                "description": "This degree trained me in understanding the advanced in mathematics and computer science"
             }
         ]
     },
@@ -74,11 +74,11 @@
         "type": "three-column",
         "title": "Skills",
         "list": [
-            "Brewing",
-            "Recipe Inception",
-            "Barrel Aging",
-            "Beersmith",
-            "Fluent in French and English",
+            "programmer",
+            "Lecturer",
+            "Manager",
+            "Assistant Manager",
+            "Fluent in Tshivenda and English",
             "Office Suite",
             "Various Social Media Platforms"
         ]
@@ -86,6 +86,6 @@
     {
         "type": "three-column",
         "title": "Interests",
-        "list": ["Reading", "Music", "Cooking", "Writing", "Rock Climbing"]
+        "list": ["Reading", "Music", "Cooking", "Writing", "coding"]
     }
 ]
